@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/infinity/static/js/main.1f0159ca.js",
+    "main.js": "/infinity/static/js/main.f532e6ce.js",
     "index.html": "/infinity/index.html",
-    "main.1f0159ca.js.map": "/infinity/static/js/main.1f0159ca.js.map"
+    "main.f532e6ce.js.map": "/infinity/static/js/main.f532e6ce.js.map"
   },
   "entrypoints": [
-    "static/js/main.1f0159ca.js"
+    "static/js/main.f532e6ce.js"
   ]
 }
